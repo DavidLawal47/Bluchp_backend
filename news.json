@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "found": 5283070,
+    "returned": 3,
+    "limit": 3,
+    "page": 1
+  },
+  "data": [
+    {
+      "uuid": "2be1aabb-db5f-4a22-bac3-cd9406fb2591",
+      "title": "FPA Queens Road Small Cap Value Fund Q3 2025 Commentary (undefined:QRSVX)",
+      "description": "Explore the FPA Queens Road Small Cap Value Fund's Q3 2025 commentary. Learn how our disciplined process drives performance and portfolio decisions. Read the full report now!",
+      "keywords": "",
+      "snippet": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser.\n\nIf you have an ad-blocker enabled you may be blocked from ...",
+      "url": "https://seekingalpha.com/article/4847724-fpa-queens-road-small-cap-value-fund-q3-2025-commentary",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227030754/image_2227030754.jpg?io=getty-c-w1536",
+      "language": "en",
+      "published_at": "2025-11-26T00:10:00.000000Z",
+      "source": "seekingalpha.com",
+      "relevance_score": null,
+      "entities": [],
+      "similar": []
+    },
+    {
+      "uuid": "6f4a4864-26ba-4bd6-8ee6-bc3d11693819",
+      "title": "QCLN: Speculating With First Trust's Clean Green Energy ETF (NASDAQ:QCLN)",
+      "description": "Explore QCLN ETF insights: sector breakdown, performance trends, risks, and strategies.",
+      "keywords": "",
+      "snippet": "The Sunday Investor is focused exclusively on U.S. Equity ETFs. He has a strong analytical background, has received a Certificate of Advanced Investment Advice ...",
+      "url": "https://seekingalpha.com/article/4847691-qcln-speculating-with-first-trusts-clean-green-energy-etf",
+      "image_url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164051060/image_2164051060.jpg?io=getty-c-w1536",
+      "language": "en",
+      "published_at": "2025-11-26T00:05:58.000000Z",
+      "source": "seekingalpha.com",
+      "relevance_score": null,
+      "entities": [],
+      "similar": []
+    },
+    {
+      "uuid": "354c25d9-fc0f-4313-b57b-f6ac3b2d2530",
+      "title": "Client Challenge",
+      "description": "",
+      "keywords": "",
+      "snippet": "A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable...",
+      "url": "https://www.ft.com/content/1f112411-2ea6-41f0-941d-982d99792eea",
+      "image_url": "",
+      "language": "en",
+      "published_at": "2025-11-26T00:01:05.000000Z",
+      "source": "ft.com",
+      "relevance_score": null,
+      "entities": [],
+      "similar": []
+    }
+  ]
+}
